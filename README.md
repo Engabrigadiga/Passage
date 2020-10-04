@@ -1,3 +1,3 @@
 # Passage
 Entry for Ivy Hacks
-Not Complete Yet
+Explore the world, one passage at a time.
